@@ -16,6 +16,7 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
+  
 </p>
 
 
@@ -37,6 +38,14 @@
   </a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+    </a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="django" width="40" height="40"/>
+  </a>
+    </a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
 
