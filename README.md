@@ -1,22 +1,10 @@
 <!-- Operating Systems -->
-<h3>OS </h3>
-<p align="left">
-  <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" 
-         alt="archlinux" width="40" height="40"/>
-  </a>
-</p>
-
 <!-- Languages -->
 <h3>Languages </h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  
 </p>
 
 
