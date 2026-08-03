@@ -69,9 +69,6 @@
   <a href="https://pytest.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/>
   </a>
-  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/modelcontextprotocol" alt="model conght="40"/>
-  </a>
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/obsidian" alt="obsidian" width="40"
   </a>
@@ -85,9 +82,6 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" w
   </a>
   <a href="https://docs.pydantic.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/pydantic" alt="pydantic" width="40"
