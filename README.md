@@ -1,11 +1,6 @@
 <!-- Operating Systems -->
 <h3>Operating Systems</h3>
 <p align="left">
- 1: Learn the acronym TUI 2: save money and resources
-</p>
-<!-- Operating Systems -->
-<h3>Operating Systems</h3>
-<p align="left">
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
   </a>
@@ -94,3 +89,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
 </p>
+<h2>Tip: Learn the acronym TUI and save money and resources</h2>
